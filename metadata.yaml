@@ -1,0 +1,30 @@
+_repo: The-King-of-Alsander_41460
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Flecker, James Elroy
+    birthdate: 1884
+    deathdate: 1915
+    gutenberg_agent_id: '1099'
+    url: http://www.gutenberg.org/2009/agents/1099
+    wikipedia: http://en.wikipedia.org/wiki/James_Elroy_Flecker
+description: ''
+gutenberg_issued: '2012-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41460'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Princesses -- Fiction'
+- !lcsh 'Imaginary places -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Kings and rulers -- Fiction'
+- !lcsh 'Grocers -- Fiction'
+title: The King of Alsander
+url: http://www.gutenberg.org/ebooks/41460
